@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.texto-roxo{
+    color: #3c184e;
+}
+
+.texto-branco{
+    color: #fff
+}
+
+.secao-banner, .secao-servicos, .secao-marcas, .secao-onde-estamos{
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.secao-banner{
+    background-image: url('../img/banner-topo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.logo{
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.logo img{
+    width: 30px;
+    margin-right: 5px;
+}
+
+
+.nome-empresa{
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+
+.slogan{
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.secao-banner-titulo{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0;
+    background-color: #ffffffc4;
+    box-shadow: 0px 8px 32px 0px #1f26875e;
+}
+
+h1, h3{
+    color: #3c184e;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0px 0px 40px 0px;
+}
+
+.secao-banner-titulo p{
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.secao-banner-titulo p a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.secao-banner-titulo p a img{
+    width: 20px;
+}
+
+h3{
+    font-size: 36px;
+    margin: 0px 0px 45px 0px;
+}
+
+.secao-servicos-lista{
+    max-width: 800px;
+    margin: 0px auto 50px;
+    color: #3c184e;
+}
+
+.secao-servicos-lista ul li{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.secao-servicos-lista ul li span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+.secao-servicos-imagens{
+    max-width: 800px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.secao-servicos-imagens img{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa-das-redes-sociais{
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.faixa-das-redes-sociais p{
+    max-width: 800px;
+    margin: 0px auto 50px;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.faixa-das-redes-sociais p span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+.icones-redes-sociais a{
+    text-decoration: none;
+    margin: 0px 20px;
+}
+
+.icones-redes-sociais a img{
+    width: 50px;
+    height: 50px;
+}
+
+
+.secao-marcas-imagens{
+    max-width: 800px;
+    margin: 0px auto;
+}
+
+.secao-marcas-imagens img{
+    width: 148px;
+    height: 148px;
+    margin: 0px 15px;
+}
+
+.secao-onde-estamos{
+    text-align: center;
+}
+
+.secao-onde-estamos p{
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0px 0px 45px 0px;
+}
+
+iframe{
+    width: 800px;
+    height: 450px;
+}
+
+.rodape{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #3c184e;
+}
+
+.rodape p{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
